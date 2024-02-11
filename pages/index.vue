@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>Sdfsdf</h1>
     <Header
       :resume-url="navbar.resumeUrl"
       :external-links="navbar.externalLinks"

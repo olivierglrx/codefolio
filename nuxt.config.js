@@ -5,7 +5,7 @@ export default {
   router: {
     base: '/codefolio/',
   },
-  ssr: false,
+  // ssr: false,
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
